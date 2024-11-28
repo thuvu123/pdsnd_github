@@ -25,3 +25,5 @@ To complete this project, the following software requirements apply:
 You should have Python 3, NumPy, and pandas installed using Anaconda
 A text editor, like Sublime(opens in a new tab) or Atom(opens in a new tab).
 A terminal application (Terminal on Mac and Linux or Git Bash on Windows).
+
+#refactoring
