@@ -53,7 +53,7 @@ Finally, the user is prompted with the choice of restarting the program or not.
 
 # Author
 
- * [Aritra Chattaraj](https://github.com/aritra96) - Sole author for this program. Mentioned all the help received in 'Acknowledgements' section.
+ * [ThuVu  ](https://github.com/thuvu123) - Sole author for this program. Mentioned all the help received in 'Acknowledgements' section.
   
 # Acknowledgements
 
